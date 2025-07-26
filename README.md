@@ -49,3 +49,27 @@ project/
 ├── tsconfig.json
 ├── vite.config.js
 └── README.md
+
+## Future Enhancements
+
+- Backend integration with Node.js/Firebase/MongoDB
+- User authentication system (Login/Signup)
+- Admin panel for inventory management
+- Product categories and filtering
+- Payment gateway (Stripe, Razorpay, etc.)
+- Order tracking and history
+- User reviews and ratings
+
+## Outputs
+<img width="689" height="525" alt="image" src="https://github.com/user-attachments/assets/600645aa-21ff-464e-a731-86be916bb4be" />
+<img width="1502" height="813" alt="image" src="https://github.com/user-attachments/assets/31cc915a-b103-43e6-90a7-97a3674d7a15" />
+<img width="1517" height="824" alt="image" src="https://github.com/user-attachments/assets/e8cb2064-317b-49b7-9cca-8a409a298971" />
+<img width="1603" height="748" alt="image" src="https://github.com/user-attachments/assets/ab3e48dd-4a3f-4bcf-bc47-c5bf57421471" />
+<img width="1603" height="765" alt="image" src="https://github.com/user-attachments/assets/f2f35457-03a1-42a6-bfe2-bd93a7dff82e" />
+<img width="1638" height="842" alt="image" src="https://github.com/user-attachments/assets/51571be8-e268-4674-8df8-7cf7d0d16224" />
+<img width="1517" height="827" alt="image" src="https://github.com/user-attachments/assets/b8a11454-1c5d-46a2-8076-57e917899a1e" />
+
+
+
+
+
